@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashant-india
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on IT COMPANIES.
 - 📫 How to reach me ...
 
